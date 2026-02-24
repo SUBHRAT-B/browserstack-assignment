@@ -1,0 +1,47 @@
+[
+    {
+        "duration": 367.500732421875,
+        "name": "sdk:sendFunnelTestCompleted",
+        "startTime": 1771964698833.7578,
+        "worker": "25676-7480",
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": true
+    },
+    {
+        "duration": 1247.00537109375,
+        "name": "sdk:auto-capture",
+        "startTime": 1771964698840.2368,
+        "worker": "22916-7480",
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": true
+    },
+    {
+        "duration": 1272.968994140625,
+        "name": "sdk:exit-handler",
+        "startTime": 1771964698814.2732,
+        "worker": "12268-7480",
+        "status": true,
+        "failure": null,
+        "details": null,
+        "entryType": "measure",
+        "platform": 0,
+        "command": null,
+        "testName": null,
+        "hookType": null,
+        "cli": true
+    }
+]

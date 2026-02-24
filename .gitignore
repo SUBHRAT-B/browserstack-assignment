@@ -1,0 +1,5 @@
+.env
+browserstack.yml
+cover_images/
+__pycache__/
+*.exe
